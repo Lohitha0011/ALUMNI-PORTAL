@@ -1,8 +1,28 @@
-# React + Vite
+🤝 Alumni Association Platform – Engagement & Networking App
+Overview:
+The Alumni Association Platform is a dynamic web application built to enhance engagement between alumni and the institution. It fosters networking, event participation, and contribution opportunities through a unified digital interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🧩 Problem Statement:
+Institutes often struggle to maintain strong alumni relations due to outdated communication methods and lack of digital presence. This platform bridges the gap by offering streamlined tools for networking, event registration, and contributions.
 
-Currently, two official plugins are available:
+🔧 Key Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Alumni Directory: Easily search and connect with fellow alumni.
+
+✅ Event Registration: One-click signup for reunions, webinars, and career events.
+
+✅ Donation Portal: Secure contributions toward scholarships or development programs.
+
+✅ Job Board: Post and explore job/internship opportunities shared by alumni.
+
+✅ User-Friendly Interface: Clean, responsive UI optimized for all devices.
+
+🛠️ Tech Stack:
+
+Frontend: React.js, TailwindCSS
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+Version Control: Git, GitHub
